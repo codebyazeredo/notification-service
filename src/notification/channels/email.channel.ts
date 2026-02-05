@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import * as nodemailer from 'nodemailer';
 import { NotificationJob } from '../interfaces/notification-job.interface';
-import { TemplateService } from '../template.service';
+import { TemplateService } from '../../templates/template.service';
 
 @Injectable()
 export class EmailChannel {

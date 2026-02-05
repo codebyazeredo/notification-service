@@ -3,7 +3,7 @@ import { NotificationController } from './notification.controller';
 import { NotificationService } from './notification.service';
 import { NotificationProcessor } from './notification.processor';
 import { EmailChannel } from './channels/email.channel';
-import { TemplateService } from './template.service';
+import { TemplateService } from '../templates/template.service';
 
 @Module({
   controllers: [NotificationController],
