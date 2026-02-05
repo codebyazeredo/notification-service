@@ -3,7 +3,7 @@ import { CreateNotificationDto } from './dto/create-notification.dto';
 import { NotificationService } from './notification.service';
 import { randomUUID } from 'crypto';
 
-@Controller('notification')
+@Controller('notifications')
 export class NotificationController {
     constructor(private readonly notificationService: NotificationService) {}
 
