@@ -1,3 +1,8 @@
+/*
+ * MIT License
+ * Copyright (c) 2026 codebyazeredo
+ */
+
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 import { ValidationPipe } from '@nestjs/common';

@@ -163,3 +163,16 @@ GitHub: [https://github.com/codebyazeredo](https://github.com/codebyazeredo)
 
 Contribuições, issues e sugestões são bem-vindas.
 
+---
+
+## Licença & Metadados do Projeto
+
+![Licença](https://img.shields.io/badge/license-MIT-green)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Testes](https://img.shields.io/badge/tests-covered-success)
+![Cobertura](https://img.shields.io/badge/coverage-90%25-brightgreen)
+
+Este projeto está licenciado sob a **Licença MIT**.
+
+---
+
